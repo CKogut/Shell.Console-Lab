@@ -191,3 +191,4 @@ Now let's practice one more backgrounding technique with a different command.
 3. "Command Line Crash Course" http://learnpythonthehardway.org/book/appendixa.html
 4. "VIM 101" https://www.linux.com/learn/vim-101-beginners-guide-vim
 
+//Read and acknowledged
